@@ -2,8 +2,10 @@
 
 **Author: Kavya Gupta**, CSE Sophie, 22B1053
 
-Instructions:
-These are Labs and Slides.
-Every Lab has two folders: 'original', 'labDirectory'
-'Original' folder will contain the actual question statement in lab.
-'labDirectory' will contain mine and maybe few other people's solutions.
+Instructions:<br/>
+These are Labs and Slides.<br/>
+Every Lab has two folders: 'original', 'labDirectory' and 'submission'<br>
+'Original' folder will contain the actual question statement in lab.<br/>
+'labDirectory' will contain mine and maybe few other people's solutions.<br/>
+
+Project statements have also been added.
