@@ -1,0 +1,5 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{}%
+\contentsline {section}{\numberline {2}Types of Conic Section}{2}{}%
+\contentsline {section}{\numberline {3}Properties}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Equations}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Parameters}{3}{}%

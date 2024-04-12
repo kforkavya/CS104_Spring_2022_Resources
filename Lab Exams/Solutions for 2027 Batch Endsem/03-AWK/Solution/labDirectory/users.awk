@@ -1,0 +1,1 @@
+BEGIN{FS=";"} /\/bin\/false/{print $1}
